@@ -1,24 +1,16 @@
-Task-1-Data-Cleaning/
-│
-├── netflix_titles.csv
-├── cleaned_netflix_dataset.csv
-├── task1.ipynb
-├── README.md
+In this project, I cleaned and preprocessed the Netflix Movies and TV Shows dataset using Python and Pandas.
 
-Task Performed
-
+Tasks performed:
 - Handled missing values
-- Removed duplicate rows
+- Removed duplicate records
 - Standardized text formatting
-- Converted date columns into datetime format
-- Renamed columns into clean format
+- Converted date columns
+- Renamed column headers
+- Checked data types
+- Detected outliers
 
-Tools Used
-
+Tools Used:
 - Python
 - Pandas
-- Jupyter Notebook / VS Code
-
-Output
-
-Cleaned dataset ready for analysis.
+- Jupyter Notebook
+- VS Code
